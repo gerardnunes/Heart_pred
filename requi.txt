@@ -3,5 +3,5 @@ pandas==1.4.2
 numpy==1.23.1
 Cython>=0.29.30
 scikit-learn==1.2.1
-apt-get update && apt-get install -y libatlas-base-dev libopenblas-dev
+
 
